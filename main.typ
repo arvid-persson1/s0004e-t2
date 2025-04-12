@@ -76,7 +76,7 @@ $
 Due to aliasing, all signals
 
 $
-10cos((0.17 + 2k)pi t + pi/13)
+10cos((0.17 + 2k) f_s pi t + pi/13)
 $
 
 with $k in ZZ$ will be identical in discrete time with the given sampling
